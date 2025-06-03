@@ -1,0 +1,44 @@
+🚀 Project 1: Greeting App
+
+🎯 Goal:
+
+Take name from user and greet them
+
+
+✅ Step 1: Python Code (Simple Version)
+
+# Greeting App
+
+# Take name input from user
+name = input("What is your name? ")
+
+# Greet the user
+print("Hello", name, "! Welcome to Python 😊")
+
+
+✅ Step 2: Concepts Used 
+
+🧠 Concepts Used:
+
+1. input() function:
+   ➤ Takes input from user as a string.
+   ➤ Example:
+       name = input("Enter your name: ")
+
+2. print() function:
+   ➤ Prints message to the screen.
+   ➤ Example:
+       print("Hello", name)
+
+3. Variables:
+   ➤ Used to store values like user name.
+   ➤ Example:
+       name = "Ankit"
+
+4. String + Variable:
+   ➤ Join text and variables in print.
+   ➤ Example:
+       print("Hello " + name)
+
+
+
