@@ -1,5 +1,3 @@
-# Greeting_App
-A simple python project t5hat takes user name as input and greets the user.
 # Greeting App 👋
 
 A simple Python project that takes user name as input and greets the user.
